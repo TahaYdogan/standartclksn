@@ -33,6 +33,7 @@ function onscroll() {
             navbar1.style.opacity = "1";
             navbar2.style.transform = "translate(0px,15px)";
             navbar2.style.borderBottom = "";
+          
 
 
 

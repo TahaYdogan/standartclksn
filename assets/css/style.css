@@ -557,6 +557,7 @@ padding-bottom: 20px;
    padding-top: 25px;
    align-items: center;
    font-family: "Bai Jamjuree", sans-serif;
+   font-size: 18px;
 
 }
 
@@ -624,6 +625,7 @@ padding-bottom: 20px;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
+  height: auto;
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 55px 50px;
@@ -810,7 +812,35 @@ padding-bottom: 20px;
 }
 
 
+ .boslukk{
+  
+  height: 110px;
+  margin-top: 150px;
+  font-family: "Bai Jamjuree", sans-serif;
+
+}
+
+.boslukk p {
+  
+ padding-top: 50px;
+
+}   
+
 /* contact *****************************************/
+
+
+.button {
+  background-color:#d74042;
+  border-color: #d74042;
+  border-radius: 20%;
+  height: 40px ;
+  color: white;
+  font-family: "Bai Jamjuree", sans-serif;
+  text-align: center;
+
+ 
+  font-size: 16px;
+}
 
 
 .contact-wrap {
@@ -818,10 +848,11 @@ padding-bottom: 20px;
 	width: 80%;
 	height: auto;
 	margin: auto;
-    padding-top: 130px;
+   
 	display: flex;
 	flex-wrap: wrap;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
+    margin-top: 150px;
 }
 
 .contact-in {
